@@ -21,3 +21,5 @@ db.commit() #將寫操作提交 多次寫操作一同提交
 # 關閉數據庫
 cur.close()
 db.close()
+
+print("fetch修改測試")
